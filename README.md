@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kpatelrdl
+- 👋 Hi, I’m @kpatelrdl
 - 👀 I’m interested in Learning new things.
 - 🌱 I’m currently learning foundational Mathematics for ML/AI.
 
